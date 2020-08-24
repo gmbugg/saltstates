@@ -1,0 +1,2 @@
+# saltstates
+Salt states repository
